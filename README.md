@@ -1,6 +1,6 @@
 # kirby-selectoptgroup
 
-Small Kirby CMS pluggin to create select input with optgroup
+Small Kirby CMS plugin to create select input with optgroup
 
 # Field Blueprint exemple
 
